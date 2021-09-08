@@ -3,7 +3,8 @@ layout: slide
 title: "Welcome to our second slide!"
 
 ---
-
-Slowly warming up to the github experience :]
+* Dipping my toes **in**
+ * Slowly warming up to the __github__ experience :]
+ 
 
 Use the left arrow to go back!
